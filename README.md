@@ -52,4 +52,4 @@ This is a lightweight, classical tracking approach — no deep learning and no O
 
 ## Author
 
-Antonio — Graduate in Robotics & Digital Systems Engineering, UNITEC Querétaro. Working toward computer vision / ADAS roles.
+Antonio — Robotics & Digital Systems Engineering graduate, UNITEC Querétaro. Working toward computer vision / ADAS roles.
